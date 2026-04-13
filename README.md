@@ -24,7 +24,7 @@ pip install openpyxl
 
 ## Project Structure
 
-- `main.py` – main script with all functions and CLI menu
+- `marks_manager.py.py` – main script with all functions and CLI menu
 - `students_template.xlsx` – Excel template with the expected headers
 
 Expected headers (row 1):
@@ -39,7 +39,7 @@ Name | D.O.B | Blood group | Age | Tamil | English | Maths | Physics | Chemistry
 2. Run the script:
 
 ```bash
-python main.py
+marks_manager.py
 ```
 
 3. Use the menu options:
